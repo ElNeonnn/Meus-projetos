@@ -3,4 +3,4 @@ Meu primeiro repositório criado no GitHub. Ele é usado para guardar todos os m
 
 Meus projetos:
 <br>
-<a href="https://elneonnn.github.io/projeto-android" target="_blank">Projeto Android</a>
+[Projeto Android](https://elneonnn.github.io/projeto-android){:target="_blank"}
